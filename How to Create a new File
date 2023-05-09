@@ -1,0 +1,5 @@
+outfile=open('myfile.txt','w')
+outfile.write("Northern Virginica Community College\n")
+outfile.write("Loudoun Campus, VA\n")
+outfile.write("EGR-125: Intro to Programming")
+outfile.close()
